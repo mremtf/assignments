@@ -1,0 +1,4 @@
+Number of names with 4 characters: ******
+Number of names with 5 characters: ****
+Number of names with prefix of ma are 2
+Number of names with suffix of an are 1

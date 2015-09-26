@@ -1,0 +1,9 @@
+C Yadier_Molina 29 22 76 .315
+1B Allen_Craig 27 22 92 .307
+2B Daniel_Descalso 25 4 26 .227
+SS Rafael_Furcal 34 5 49 .264
+3B David_Freese 29 20 79 .293
+LF Matt_Holliday 32 27 102 .295
+CF Jon_Jay 27 4 40 .305
+RF Carlos_Beltran 35 32 97 .269
+

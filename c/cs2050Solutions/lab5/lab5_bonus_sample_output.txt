@@ -1,0 +1,171 @@
+
+Line up for this team is: 
+David_Freese
+Matt_Adams
+Yadier_Molina
+Carlos_Beltran
+Rafael_Furcal
+Jon_Jay
+Allen_Craig
+Matt_Holliday
+Daniel_Descalso
+
+David_Freese is now batting
+Ball!
+Strike!
+hit!
+
+Matt_Adams is now batting
+Strike!
+Strike!
+Strike!
+
+Yadier_Molina is now batting
+Strike!
+Ball!
+Strike!
+Strike!
+
+Carlos_Beltran is now batting
+hit!
+
+Rafael_Furcal is now batting
+Strike!
+hit!
+
+Jon_Jay is now batting
+hit!
+
+Allen_Craig is now batting
+Strike!
+Ball!
+Strike!
+hit!
+
+Matt_Holliday is now batting
+Strike!
+Ball!
+Strike!
+Ball!
+Strike!
+
+Daniel_Descalso is now batting
+Ball!
+Strike!
+hit!
+
+David_Freese is now batting
+Strike!
+Strike!
+Ball!
+Strike!
+
+Matt_Adams is now batting
+Ball!
+Strike!
+Ball!
+Ball!
+Strike!
+Ball!
+Walked!
+
+Yadier_Molina is now batting
+Strike!
+Ball!
+Strike!
+Ball!
+hit!
+
+Carlos_Beltran is now batting
+Strike!
+hit!
+
+Rafael_Furcal is now batting
+hit!
+
+Jon_Jay is now batting
+Strike!
+Strike!
+Ball!
+Ball!
+Strike!
+
+Allen_Craig is now batting
+Ball!
+Strike!
+Ball!
+Strike!
+Ball!
+Strike!
+
+Matt_Holliday is now batting
+Ball!
+Strike!
+Ball!
+Strike!
+Strike!
+
+Daniel_Descalso is now batting
+Strike!
+Ball!
+Ball!
+Ball!
+Strike!
+Strike!
+
+David_Freese is now batting
+Strike!
+Strike!
+Ball!
+hit!
+
+Matt_Adams is now batting
+Strike!
+Ball!
+Strike!
+hit!
+
+Yadier_Molina is now batting
+Ball!
+Ball!
+Strike!
+Strike!
+Strike!
+
+Carlos_Beltran is now batting
+Strike!
+hit!
+
+Rafael_Furcal is now batting
+Strike!
+hit!
+
+Jon_Jay is now batting
+Strike!
+Strike!
+Strike!
+
+Allen_Craig is now batting
+Strike!
+Ball!
+hit!
+
+Matt_Holliday is now batting
+Strike!
+hit!
+
+Daniel_Descalso is now batting
+Strike!
+Strike!
+Strike!
+
+David_Freese went 2/3 with a OBP of 0.667
+Matt_Adams went 2/3 with a OBP of 0.667
+Yadier_Molina went 1/3 with a OBP of 0.333
+Carlos_Beltran went 3/3 with a OBP of 1.000
+Rafael_Furcal went 3/3 with a OBP of 1.000
+Jon_Jay went 1/3 with a OBP of 0.333
+Allen_Craig went 2/3 with a OBP of 0.667
+Matt_Holliday went 1/3 with a OBP of 0.333
+
+Score of game was: 4 

@@ -1,0 +1,69 @@
+Would you like to search for a name? (yes or no): yes
+Name: matt
+
+matt is present in the database
+Would you like to search for a name? (yes or no): yes
+Name: erica
+
+erica is not present in the database
+Would you like to search for a name? (yes or no): yes
+Name: bob 
+
+bob is present in the database
+Would you like to search for a name? (yes or no): no
+        -
+    sue
+                -
+            sachin
+                -
+        nick
+            -
+matt
+            -
+        james
+            -
+    erik
+            -
+        bob
+            -
+The number of records in the database is 7
+The max depth of the database is 4
+The number of leaf records are 3
+The database is no balanced
+The tree mirrored looks like this
+
+            -
+        bob
+            -
+    erik
+            -
+        james
+            -
+matt
+            -
+        nick
+                -
+            sachin
+                -
+    sue
+        -
+
+
+Enter the lower bound name and upper bound name: Trimming the database from bob to matt
+
+    -
+matt
+            -
+        james
+            -
+    erik
+            -
+        bob
+            -
+SIZE: 4
+
+Ther databse flattened looks like this:
+bob
+erik
+james
+matt

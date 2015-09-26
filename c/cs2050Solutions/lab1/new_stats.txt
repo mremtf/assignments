@@ -1,0 +1,8 @@
+1B Allen_Craig 10 19 15 0.269000
+1B Allen_Craig 27 22 92 0.307000
+2B Daniel_Descalso 25 4 26 0.227000
+SS Rafael_Furcal 34 5 49 0.264000
+3B David_Freese 29 20 79 0.293000
+LF Matt_Holliday 32 27 102 0.295000
+CF Jon_Jay 27 4 40 0.305000
+RF Carlos_Beltran 35 32 97 0.269000

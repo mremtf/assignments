@@ -1,0 +1,4 @@
+2
+C Yadier_Molina 31 22 76 .317
+1B Allen_Craig 10 19 15 .269
+

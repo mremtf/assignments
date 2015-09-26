@@ -1,0 +1,134 @@
+
+Line up for this team is: 
+David_Freese
+Matt_Adams
+Yadier_Molina
+Carlos_Beltran
+Rafael_Furcal
+Jon_Jay
+Allen_Craig
+Matt_Holliday
+Daniel_Descalso
+
+David_Freese is now batting
+Strike!
+hit!
+
+Matt_Adams is now batting
+Ball!
+Strike!
+Ball!
+Strike!
+hit!
+
+Yadier_Molina is now batting
+Strike!
+hit!
+
+Carlos_Beltran is now batting
+Strike!
+Strike!
+hit!
+
+Rafael_Furcal is now batting
+Strike!
+Strike!
+hit!
+
+Jon_Jay is now batting
+Strike!
+Strike!
+Strike!
+
+Allen_Craig is now batting
+Strike!
+Strike!
+Ball!
+hit!
+
+Matt_Holliday is now batting
+hit!
+
+Daniel_Descalso is now batting
+hit!
+
+David_Freese is now batting
+hit!
+
+Matt_Adams is now batting
+hit!
+
+Yadier_Molina is now batting
+Ball!
+Strike!
+Strike!
+Strike!
+
+Carlos_Beltran is now batting
+Strike!
+Strike!
+Strike!
+
+Rafael_Furcal is now batting
+hit!
+
+Jon_Jay is now batting
+Ball!
+hit!
+
+Allen_Craig is now batting
+Strike!
+Ball!
+Strike!
+Strike!
+
+Matt_Holliday is now batting
+hit!
+
+Daniel_Descalso is now batting
+Ball!
+Strike!
+hit!
+
+David_Freese is now batting
+hit!
+
+Matt_Adams is now batting
+hit!
+
+Yadier_Molina is now batting
+Strike!
+Strike!
+Strike!
+
+Carlos_Beltran is now batting
+Ball!
+Strike!
+Strike!
+Strike!
+
+Rafael_Furcal is now batting
+Strike!
+Strike!
+Strike!
+
+Jon_Jay is now batting
+Strike!
+Ball!
+hit!
+
+Allen_Craig is now batting
+Strike!
+Strike!
+Strike!
+
+Matt_Holliday is now batting
+hit!
+
+Daniel_Descalso is now batting
+Strike!
+Strike!
+Ball!
+Strike!
+
+Score of game was: 4 

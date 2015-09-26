@@ -1,0 +1,37 @@
+Flatten C Logic 
+
+Note: Not all the code is complete just the pushing and poping off the tree.
+The memory allocation of the string array has been done before
+
+	// ALLOCATION OF STRING ARRAY AND ASSIGNMENT OF len_strings to the size of tree
+
+	TreeNode* current = node; // set the current pointer to the my node (root)
+	StackNode* s = NULL; // Set up the initial stack
+	int done = 0; // use to detect if the tree is completely traversed
+	
+	// SET MY CURRENT STRING ARRAY IDX
+	
+	// While the stack is not empty and no work to do
+	while (!done) {
+		// Can I move further into the tree
+		if (current != NULL) {
+			// Pop the current tree node into my stack
+			push_node(&s,current);
+			// Let's traverse left side of the sub tree
+			current = current->left;
+		}
+		else {
+			// Is my stack not NULL
+			if (s) {
+				// remove a node from the stack to traverse back up the tree
+				current = pop_node(&s); // updating location 
+				// COPY THE NAME INTO THE STRING ARRAY AT MY CURRENT STRING IDX
+				current = current->right; // Let's traverse the right side of the sub tree
+				// INCREMENT MY IDX LOCATION FOR MY STRING ARRAY
+			}
+			else
+				done = 1; // We have finished traversing the entire tree, my stack is completely empty
+		}
+	}
+	
+	// RETURN MY STRING ARRAY
