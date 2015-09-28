@@ -1,2 +1,2 @@
 # assignments
-A collection of programs wrote to teach introduction level algorithms
+A collection of programs wrote for various classes and teaching material
