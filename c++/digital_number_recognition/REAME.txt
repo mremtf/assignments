@@ -1,0 +1,5 @@
+Author: Matthew England
+
+usage:
+
+./sudoku_ocr <sudoku image>
