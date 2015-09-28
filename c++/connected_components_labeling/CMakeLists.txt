@@ -1,0 +1,7 @@
+project( CCL)
+cmake_minimum_required(VERSION 2.8)
+add_definitions(-DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H)
+SET( CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -g -stdlib=libc++ -std=c++0x -O3 -Wall" )
+find_package( OpenCV REQUIRED )
+add_executable( ccl src/ccl.cpp src/ConnectedComponents.cpp)
+target_link_libraries( ccl ${OpenCV_LIBS} )
