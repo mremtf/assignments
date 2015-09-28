@@ -1,0 +1,8 @@
+Author: Matthew England
+
+
+Usage of Edge Detector:
+
+./edge_detector <input_image> <min_magnitude_threshold_value>
+
+min_magnitude_threshold_value sets the level of edge coverage you want, 60 was found to be the best.
